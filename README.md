@@ -1,2 +1,5 @@
-socket_file_c读取路径下所有文件，tcp传给socket_file_s。
-先传文件名和大小，再传图像
+## Usage
+
+first run ```socket_file_s.py```, then ```socket_file_s.py```, 
+
+and file in folder ```/send``` will be sent to ```/recv``` locally
